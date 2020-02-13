@@ -6,7 +6,7 @@ original codes are from [A simplified guide to gRPC in Python](https://www.seman
 
 Please follow the link for detail steps.
 
-##key points
+## key points ##
 
 1. The **.proto** file [ref.](https://developers.google.com/protocol-buffers/docs/proto3)
 
